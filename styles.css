@@ -1,0 +1,56 @@
+
+
+
+body {
+
+
+}
+
+
+
+header {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.header {
+color: #F9FAF8 ;
+font-size: 24px;
+align-items: center;
+display: flex;
+padding-left: 100px;
+}
+
+
+footer {
+    background-color: #1F2937;
+
+}
+
+.quote {
+
+
+
+}
+
+
+.info {
+
+
+}
+
+header,a {
+    color: #E5E7EB;
+
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    
+}
