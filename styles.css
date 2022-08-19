@@ -108,6 +108,30 @@ body .container {
 .info {
     text-align: center;
     padding: 10px;
-    
+   
+}
 
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 0 15% 0 15%;
+    
+}
+
+.quotecontainer {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quotee {
+    font-weight: bold;
+    margin-left: auto;
 }
