@@ -74,30 +74,40 @@ header img {
     height: auto;
 }
 
-header h1 {
+h1 {
     font-size: 48px;
     font-weight: bolder;
-
 }
 
 body .container {
     display: flex;
     justify-content: center;
 
+}
+
+.infoheader {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+
 
 }
 
-body img {
+
+.imginfo {
     width: 75px;
     height: 75px;
     border-radius: 25% 10%;
-    border-color: black;
-    image-resolution: 20%;
+    border: 3px solid #3882F6;
+    
+    
 }
 
 .info {
     text-align: center;
-    /* justify-content: space-around; */
+    padding: 10px;
     
 
 }
