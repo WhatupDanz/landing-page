@@ -3,7 +3,7 @@
 
 body {
 margin: auto;
-
+height: 100%;
 
 }
 
@@ -63,7 +63,7 @@ ul {
 .headerlinks {
     display: flex;
     margin-left: auto;
-    gap: 8px;
+    gap: 14px;
     
 }
 
@@ -183,4 +183,22 @@ button {
 
 .text2 p {
     margin: 0px;
+}
+
+footer {
+    background-color: #1F2937;
+    margin-top: auto;
+}
+
+.footercontainer {
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    margin-top: auto;
+
+}
+
+.footertext {
+    color: white;
+
 }
